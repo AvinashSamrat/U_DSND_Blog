@@ -29,3 +29,4 @@ As per Udacity Data Scientist Nanodegree project, I was asked to write a Data sc
 The project is formulated by Udacity as a part of Data Scientist Nanodegree Program and the dataset is part of Airbnb which has been provided by Kaggle.
 
 ## Blog Link
+https://medium.com/@avinashsamrat/airbnb-in-boston-f6edc003541f
